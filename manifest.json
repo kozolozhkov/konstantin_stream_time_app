@@ -33,5 +33,12 @@
     "runtime": "python3.8",
     "app": {}
   },
-  "datasets": {}
+  "datasets": {
+    "big-data-energy.konstantin_stream_time_app": {
+      "permissions": [
+        "read",
+        "write"
+      ]
+    }
+  }
 }
